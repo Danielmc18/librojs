@@ -7,3 +7,4 @@ document.writeln("Hello, world!");
 //     this.prototype(name) = func;
 //     return this;
 // };
+
